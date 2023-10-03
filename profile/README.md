@@ -1,5 +1,5 @@
-## Multichainz
-
+# Multichainz
+Stealth mode ON
 <!--
 
 **Here are some ideas to get you started:**
