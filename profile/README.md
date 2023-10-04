@@ -4,7 +4,7 @@ MultichainZ empowers users to lend, borrow, and stake cryptocurrencies, NFTs, an
 
 
 
-![Multichainz Color Vector](https://github.com/Multichain-Z/.github/assets/27554225/0121cbea-04ef-4b10-840c-670db6ecaf2a)
+!![Multichainz Color Vector](https://github.com/Multichain-Z/.github/assets/27554225/0121cbea-04ef-4b10-840c-670db6ecaf2a)
                                                                           
 
 
