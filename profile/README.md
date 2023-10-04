@@ -5,13 +5,8 @@ MultichainZ empowers users to lend, borrow, and stake cryptocurrencies, NFTs, an
 
 
 
-| / | () | () | | |___ / | | ()
-| \ / | __ _ | | _ __ | | __ / / _ __ | | _ __ _ ___
-| |/| |/ | | | | |/ _ | |/ / / / | ' | __| |/ ` |/ _
-| | | | (| | | | | | (| | < / /__| | | | || | (| | __/
-|| ||_,||| ||_,||__|| ||_||_, |_|
-/ |
-|_/
+![image](https://github.com/Multichain-Z/.github/assets/27554225/7c666e67-a8c5-46e8-ba95-246100c0f162)
+
                                                                           
                                                                           
 
